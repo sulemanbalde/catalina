@@ -9,7 +9,7 @@ playstore_link                            : https://google.com                  
 #presskit_download_link                    : https://airtable.com/shrg1VfLskzn81LAy                                         # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Earn Money Selling Store's Owner Products to People you care about. Find out what you could earn
@@ -38,22 +38,22 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#3d95ce"
+topbar_color                              : "#ffffff"
 topbar_transparency                       : 1
-topbar_title_color                        : "#ffffff"
+topbar_title_color                        : "#3d95ce"
 
-cover_image                               : assets/headerBack.jpg                    # Replace with alternative image path or image URL.
+cover_image                               : #assets/headerBack.jpg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#3d95ce"
-cover_overlay_transparency                : 0
+cover_overlay_transparency                : 1
 
-device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
 link_color                                : "#3d95ce"
 
-app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
+app_title_color                           : "#000000"
+app_price_color                           : "#ffc929"
 app_description_color                     : "#ffffff"
 
 feature_title_color                       : "#000000"
