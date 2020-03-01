@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-Effective date: 01/20/2020
+Effective date: 01/03/2020
 
 # Privacy Policy
 PRIVACY POLICY
@@ -24,7 +24,7 @@ Our Terms and Conditions (“Terms”) govern all use of our Service and togethe
 
 Definitions
 
-SERVICE means the flosell mobile application operated by flopsell.com
+SERVICE means the flosell mobile application operated by flosell.com
 
 PERSONAL DATA means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
@@ -90,7 +90,7 @@ Advertising Cookies: Advertising Cookies are used to serve you with advertisemen
 
 Use of Data
 
-flopsell.com uses the collected data for various purposes:
+flosell.com uses the collected data for various purposes:
 
 to provide and maintain our Service;
 
@@ -197,7 +197,7 @@ For more information on what data GitLab CI/CD collects for what purpose and how
 
 Behavioral Remarketing
 
-flopsell.com uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+flosell.com uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
 Google Ads (AdWords)
 Google Ads (AdWords) remarketing service is provided by Google Inc.
