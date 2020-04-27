@@ -14,7 +14,7 @@ app_name                                  : flosell                             
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Earn Money Selling Store's Owner Products to People you care about. Find out what you could earn
 
-enable_smart_app_banner                   : true                                    # Set to true to show a smart app banner at top of page on mobile devices.
+enable_smart_app_banner                   : false                                    # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
